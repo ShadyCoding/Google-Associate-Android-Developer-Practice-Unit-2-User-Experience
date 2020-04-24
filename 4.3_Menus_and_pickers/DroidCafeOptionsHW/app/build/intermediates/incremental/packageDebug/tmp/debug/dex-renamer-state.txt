@@ -1,0 +1,4 @@
+#Thu Apr 23 16:39:24 PKT 2020
+base.0=D\:\\AndroidStudioProjects\\Android-Developer-Fundamentals-Version-2-master-Solutions of CC and HW\\4.3_Menus_and_pickers\\DroidCafeOptionsHW\\app\\build\\intermediates\\dex\\debug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
